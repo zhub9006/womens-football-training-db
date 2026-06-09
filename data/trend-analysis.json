@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "source": "ClinicalTrials.gov",
+    "query_date": "2026-06",
+    "search_terms": [
+      "resistance training female football soccer",
+      "strength conditioning women soccer football athletic performance",
+      "plyometric training sprint jump women female soccer"
+    ],
+    "filters": {
+      "status": ["COMPLETED", "ACTIVE_NOT_RECRUITING", "RECRUITING"]
+    },
+    "total_studies": 8
+  },
+  "trend_analysis": {
+    "countByStatus": {
+      "total_studies": 8,
+      "results": {
+        "COMPLETED": 5,
+        "RECRUITING": 2,
+        "ACTIVE_NOT_RECRUITING": 1
+      },
+      "insight": "62.5% of trials are completed, providing a solid if small evidence base. Two trials actively recruiting in Portugal (2025) signal continued growth."
+    },
+    "countByCountry": {
+      "total_studies": 8,
+      "results": {
+        "Turkey (Türkiye)": 2,
+        "Spain": 2,
+        "Portugal": 2,
+        "Norway": 1,
+        "Poland": 1,
+        "Denmark": 1
+      },
+      "insight": "Europe dominates. Turkey and Portugal are the most active contributors. No trials from USA, Germany, England, France, or Brazil — major research gaps in the biggest women's football markets."
+    },
+    "countBySponsorType": {
+      "total_studies": 8,
+      "results": {
+        "OTHER (Academic/University/Hospital)": 8,
+        "Industry": 0,
+        "Government/NIH": 0,
+        "Federation/Governing Body": 0
+      },
+      "insight": "100% academic sponsorship. Zero industry or federation-sponsored trials registered on ClinicalTrials.gov. Major governing bodies (FIFA, UEFA, national FAs) are not registering formal trials."
+    },
+    "countByPhase": {
+      "total_studies": 8,
+      "results": {
+        "N/A (Not Applicable)": 7,
+        "Phase 2": 1
+      },
+      "insight": "N/A phase is standard for exercise/behavioural intervention studies. The single Phase 2 trial (NCT06789900) includes a pharmacological component (Everolimus). Quality differentiator is study design (RCT vs single-group)."
+    }
+  },
+  "timeline": {
+    "2017": ["NCT03862560"],
+    "2018": ["NCT04048928"],
+    "2019": ["NCT04134741"],
+    "2023": ["NCT06445478"],
+    "2024": ["NCT06648616", "NCT06789900"],
+    "2025": ["NCT06800079", "NCT07274566"]
+  },
+  "research_gaps": [
+    "No large-scale (n>200) multi-site RCTs",
+    "No trials from USA, Germany, England, France, Brazil, Australia",
+    "No long-season (>6 month) periodised S&C intervention trials",
+    "No trials on elite professional players (most samples are semi-professional or university-level)",
+    "No trials examining menstrual cycle effects on training adaptation",
+    "No combined concurrent training (strength + endurance) RCTs",
+    "Zero industry or federation-sponsored trials registered on ClinicalTrials.gov",
+    "No trials integrating GPS/wearable load data with S&C outcomes"
+  ]
+}
